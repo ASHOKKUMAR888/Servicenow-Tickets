@@ -1,2 +1,2 @@
-# Servicenow-Tickets
-Automate the Ticket Process
+echo "print('Hello, world!')" > hello.py
+
